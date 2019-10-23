@@ -26,8 +26,8 @@ Files:
 Instructions:
 
 - To run the jupyter notebooks, the files "Courier_lifetime_data.csv" and "Courier_weekly_data.csv" must
-be in the same folder of the jupyter notebook.
+be in the "datasets" folder of the project.
 
 - The python scripts "courier_data_manager.py", "data_visualization_util.py" and "modeling_helper.py" must
-be in the same folder of the jupyter notebook as well.
+be in the same folder of the jupyter notebook.
 
